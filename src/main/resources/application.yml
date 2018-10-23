@@ -1,0 +1,12 @@
+# DataSource Config
+# spring:
+#   datasource:
+#     url: jdbc:mysql://localhost:3306/HaveAQuestion?useUnicode=true&useSSL=false&characterEncoding=utf8
+#     driver-class-name: com.mysql.jdbc.Driver
+#     username: root
+#     password: 123456
+
+# # Logger Config
+# logging:
+#   level:
+#     com.baomidou.mybatisplus.samples.quickstart: debug
